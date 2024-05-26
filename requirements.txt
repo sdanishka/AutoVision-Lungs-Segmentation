@@ -1,0 +1,8 @@
+tensorflow
+numpy
+scikit-image
+Pillow
+scikit-learn
+plotly
+openpyxl
+gdown
